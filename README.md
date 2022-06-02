@@ -1,6 +1,6 @@
 # CSS-Projects
 
-Two projects that I have created by are stored here 
+Two pages that I have created are stored here 
 
 1) Error 404 Page
 2) Testimonial Page
@@ -12,4 +12,11 @@ Two projects that I have created by are stored here
 
 ## Screenshots
 
-1) Error 404 Page
+## 1) Error 404 Page
+
+<img src="Screenshot (34).png" />
+<img src="Screenshot (36).png" />
+
+## 2) Testimonial Page
+
+<img src="Screenshot (33).png" />
